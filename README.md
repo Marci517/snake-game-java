@@ -26,7 +26,7 @@ This is a simple Snake game implemented using Java Swing. It was created as a ba
 
 ## Requirements
 
-- Java JDK 8 or higher
+- Java JDK 8 or higher, the project uses Java Streams (e.g. for checking collisions), so Java 8 or later is required.
 - An image file named `flower.png` in the project root (used as the food)
 - An audio file named `example.wav` in the project root (used for background music)
 
